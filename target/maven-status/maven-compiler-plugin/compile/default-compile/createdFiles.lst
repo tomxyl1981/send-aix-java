@@ -1,0 +1,16 @@
+com/aixwallet/crypto/skycoin/SkycoinTransaction$DebugCallback.class
+com/aixwallet/Main.class
+com/aixwallet/crypto/skycoin/SkycoinTransaction$Transaction.class
+com/aixwallet/Main$InjectHandler.class
+com/aixwallet/crypto/skycoin/SkycoinTransaction$UxBody.class
+com/aixwallet/crypto/skycoin/MnemonicUtils.class
+com/aixwallet/crypto/skycoin/MnemonicUtils$ValidationResult.class
+com/aixwallet/crypto/skycoin/SkycoinTransaction$TransactionOutput.class
+com/aixwallet/crypto/skycoin/SkycoinWallet.class
+com/aixwallet/crypto/skycoin/SkycoinEncoder.class
+com/aixwallet/SignService.class
+com/aixwallet/crypto/skycoin/SkycoinTransaction.class
+com/aixwallet/Main$SignHandler.class
+com/aixwallet/crypto/skycoin/Base58.class
+com/aixwallet/Main$BuildHandler.class
+com/aixwallet/crypto/skycoin/GoCompatibleSignature.class
